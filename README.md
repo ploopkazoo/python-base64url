@@ -1,10 +1,10 @@
 # python-base64url
 
-URL and filename-safe base64 codec as described by IETF
+URL and filename-safe base64url codec as described by IETF
 
-  + Replaces `+` with `-`
-  + Replaces `/` with `_`
-  + Removes `=` padding at end
+  + Replaces base64 `+` with `-`
+  + Replaces base64 `/` with `_`
+  + Removes base64 `=` padding at end
 
 Example:
 
