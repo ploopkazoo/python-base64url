@@ -1,6 +1,6 @@
 # python-base64url
 
-URL-safe base64 codec
+URL and filename-safe base64 codec as described by IETF
 
   + Replaces `+` with `-`
   + Replaces `/` with `_`
